@@ -59,6 +59,8 @@ header nav ul li{
     margin: 5px;
     padding: 5px;
     border-radius: 1rem;
+    /* agregando transform rotate */
+    transform: rotate(10deg);
 }
 
 .espacio{
