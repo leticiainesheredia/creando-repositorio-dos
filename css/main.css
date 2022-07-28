@@ -67,6 +67,9 @@ header nav ul li:hover{
     background-color: #20e395;
 
 }
+.espacio:hover{
+        color: #000000;  
+}
 .espacio{
     width: 100%;
     height: 100vh;
