@@ -62,7 +62,11 @@ header nav ul li{
     /* agregando transform rotate */
     transform: rotate(10deg);
 }
+/* agregando hover */
+header nav ul li:hover{
+    background-color: #20e395;
 
+}
 .espacio{
     width: 100%;
     height: 100vh;
