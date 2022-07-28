@@ -38,11 +38,13 @@ header nav{
     background-repeat: no-repeat;
     background-size: cover;
 }
+/* agregando transform */
 header nav h1{
     color:white;
     background-color: #000000;
     padding: 10px;
-    border-radius: 1rem; 
+    border-radius: 1rem;
+    transform: translate(50px,50px);   
 }
 header nav ul{
     display: flex;   
