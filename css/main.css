@@ -67,8 +67,8 @@ header nav ul li:hover{
     background-color: #20e395;
 
 }
-.espacio:hover{
-        color: #000000;  
+.espacio :hover{
+    color: #000000;
 }
 .espacio{
     width: 100%;
@@ -122,8 +122,10 @@ header nav ul li:hover{
     font-size: 15px;
     margin: 5px;
 }
-
-
+/* agrego hover transform rotate*/
+.tapa-libros img:hover{
+    transform: rotate(50deg);
+}
 /* curiosidades */
 .intro-curiosa{
     background-color: white;
